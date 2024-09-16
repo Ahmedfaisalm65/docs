@@ -1,17 +1,6 @@
 ---
 title: Start your journey
-intro: 'Learn the basics of {% data variables.product.product_name %}.'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghec: '*'
-topics:
-  - Pull requests
-  - Issues
-  - Notifications
-  - Accounts
-children:
-  - /about-github-and-git
+intro: 'Learn the basics of {% data variables.product.product_name %}.
   - /creating-an-account-on-github
   - /hello-world
   - /setting-up-your-profile
